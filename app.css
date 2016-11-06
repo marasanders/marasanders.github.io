@@ -109,14 +109,14 @@ footer { padding: 100px 0 50px 0; }
 header {  }
 #header_top { background: rgba(237, 23, 79, 1); }
 #header_gap { background: #E1471A; }
-#logo { background: rgba(152, 0, 46, 1); }
+#logo { background: #3B0012; }
 header ul li { font-family: 'Cinzel Decorative', Arial, sans-serif; font-size: 38px; font-weight: semibold; color: rgba(255, 255, 255, 1); list-style: none; }
 header ul li span { font-family: 'adobe_garamondsemibold_italic', serif; font-size: 70%; color: rgba(237, 23, 79, 1); }
-nav a { font-family: 'avenirroman', sans-serif; font-size: 18px; color: black; padding-top: 25px;}
+nav a { font-family: 'avenirroman', sans-serif; font-size: 18px; color: white; padding-top: 25px;}
 nav a:hover { color: rgba(237, 23, 79, 1);}
 nav ul li { list-style: none; }
 
-#headline h1 { font-family: 'Cinzel Decorative', sans-serif; color: #6E002E; font-weight: lighter; font-size: 80px; }
+#headline h1 { font-family: 'Cinzel Decorative', sans-serif; color: #3B0012; font-weight: lighter; font-size: 80px; }
 #headline h3 { font-family: 'adobe_garamondsemibold_italic', sans-serif; font-weight: lighter; }
 
 #clients { background: #3b0012; }
@@ -134,16 +134,16 @@ nav ul li { list-style: none; }
 #about {  }
 #contact {  }
 
-.subhead a { font-size: 18px; color: rgba(152, 0, 46, 1); }
+.subhead a { font-size: 18px; color: #3B0012; }
 .subhead a:hover { color: #000; }
-.proj_title { font-family: 'avenirroman', sans-serif; color: rgba(152, 0, 46, 1); font-size: 34px;  }
-.proj_title a { font-family: 'avenirroman', sans-serif; color: rgba(152, 0, 46, 1); font-size: 34px; text-decoration: none; }
+.proj_title { font-family: 'avenirroman', sans-serif; color: #3B0012; font-size: 34px;  }
+.proj_title a { font-family: 'avenirroman', sans-serif; color: #3B0012; font-size: 34px; text-decoration: none; }
 .proj_title a:hover { color: rgba(237, 23, 79, 1); }
 .proj_text p { font-family: 'avenirroman', sans-serif; font-size: 20px }
 .proj_img img { border: solid white 10px; width: 600px; margin: 0 auto; display: block; margin-bottom: 20px; }
 .proj_type h2 { font-family: 'avenirlight', sans-serif; font-size: 30px; text-transform: uppercase; }
 
-.proj_title-dev { font-family: 'avenirroman', sans-serif; background-color: rgba(152, 0, 46, 1); padding: 13px 10px 5px 10px; font-size: 27px; margin-bottom: 10px; border-radius: 10px 10px 0 0;  }
+.proj_title-dev { font-family: 'avenirroman', sans-serif; background-color: #3B0012; padding: 13px 10px 5px 10px; font-size: 27px; margin-bottom: 10px; border-radius: 10px 10px 0 0;  }
 .proj_title-dev a { color: rgba(255, 255, 255, 1); text-decoration: none; }
 .proj_title-dev a:hover { color: rgba(237, 23, 79, 1); }
 .proj_code a { font-size: 16px; color: rgba(237, 23, 79, 1);}
@@ -156,10 +156,10 @@ nav ul li { list-style: none; }
 #about-sec p { font-family: 'avenirlight', sans-serif; font-size: 20px;  }
 .about-text { margin: 0 0 30px 0;}
 
-.contact-type h5 { font-family: 'avenirroman', sans-serif; background-color: #040A1C; color: rgba(237, 23, 79, 1); font-size: 26px; }
+.contact-type h5 { font-family: 'avenirroman', sans-serif; background-color: #040A1C; color: white; font-size: 26px; }
 .contact-info { font-family: 'avenirlight', Arial, sans-serif; color: black; font-size: 40px; }
 .contact-info a { font-family: 'avenirlight', Arial, sans-serif; color: black; font-size: 40px; }
-.contact-info a:hover { color: rgba(152, 0, 46, 1); }
+.contact-info a:hover { color: #3B0012; }
 .last { margin: 0 0 100px 0; }
 
 footer { font-family: 'avenirlight', Arial, sans-serif; text-align: center; background-color: #040A1C; color: white; font-size: 15px; }
