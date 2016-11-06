@@ -1,3 +1,10 @@
 git push git@github.com:marasanders/sandersmara.github.io.git
 
 https://marasanders.github.io/
+
+Thanks sir it worked
+I just needed to put <a name="australia" >&nbsp;</a> instead of <a name="australia" class="anchorlink"></a> Thanks again
+http://www.webdeveloper.com/forum/showthread.php?191487-RESOLVED-named-anchors-tags-not-working-in-i-e-8
+&nbsp - non breaking space??
+
+#6E002E - new forground color
