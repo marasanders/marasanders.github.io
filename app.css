@@ -60,7 +60,9 @@
 
 
 /*------ 03 GLOBAL STYLES & RESETS------*/
-body { background: #E1471A; font-family: 'avenirroman', Arial, sans-serif; font-size: 12px; color: #000; line-height: 1.1; margin: 0; padding: 0; }
+/*body { background: url("./images/July4Wash copy.jpg"); font-family: 'avenirroman', Arial, sans-serif; font-size: 12px; color: #000; line-height: 1.1; margin: 0; padding: 0; }*/
+body { background: #FFFFEF; font-family: 'avenirroman', Arial, sans-serif; font-size: 12px; color: #000; line-height: 1.1; margin: 0; padding: 0; }
+/*body { background: #E1471A; font-family: 'avenirroman', Arial, sans-serif; font-size: 12px; color: #000; line-height: 1.1; margin: 0; padding: 0; }*/
 ul { line-height: 1.1; margin-bottom: 0; }
 a { color: black; text-decoration: none; }
 a:hover { color: rgba(237, 23, 79, 1); }
@@ -107,8 +109,9 @@ footer { padding: 100px 0 50px 0; }
 /*--------- 04 STYLING ---------*/
 
 header {  }
-#header_top { background: rgba(237, 23, 79, 1); }
-#header_gap { background: #E1471A; }
+#header_top { background: #FFFFEF; }
+#header_gap { background: #FFFFEF; }
+/*#header_gap { background: #E1471A; }*/
 #logo { background: #3B0012; }
 header ul li { font-family: 'Cinzel Decorative', Arial, sans-serif; font-size: 38px; font-weight: semibold; color: rgba(255, 255, 255, 1); list-style: none; }
 header ul li span { font-family: 'adobe_garamondsemibold_italic', serif; font-size: 70%; color: rgba(237, 23, 79, 1); }
@@ -119,6 +122,7 @@ nav ul li { list-style: none; }
 #headline h1 { font-family: 'Cinzel Decorative', sans-serif; color: #3B0012; font-weight: lighter; font-size: 80px; }
 #headline h3 { font-family: 'adobe_garamondsemibold_italic', sans-serif; font-weight: lighter; }
 
+
 #clients { background: #3b0012; }
 #clients h5 { font-family: 'avenirlight', sans-serif; background: #3b0012; font-weight: bolder; color: white; border-radius: 5px; border-color: #040A1C}
 #client_box { background: white; }
@@ -128,6 +132,7 @@ nav ul li { list-style: none; }
 #clients ul li a:hover { text-decoration: none; color: rgba(255, 255, 255, 1); }
 
 .section_divider { color: white; font-family: 'Cinzel Decorative', cursive; background-color: #040A1C; }
+
 .section_title { font-size: 80px; }
 #design {  }
 #development {  }
